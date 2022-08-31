@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fa56e73-7e44-46d5-a526-1f1905c77184" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiagonalStar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactorPrinter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLastDigitSum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlourPacker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreatestCommonDivisor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntEqualityPrinter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LargestPrime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastDigitChecker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberInWord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberPalindrome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberToWords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaintJob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerfectNumber" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayingCat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SharedDigit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SumOddRange" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charAndBoolean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operatorChallenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenNumberChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeBlocks" beforeDir="false" afterPath="$PROJECT_DIR$/../codeBlocks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../speedConverter" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E6f53DEO9iOGgeHytir8qKpKOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa56e73-7e44-46d5-a526-1f1905c77184" name="Changes" comment="" />
+      <created>1661920782621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661920782621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
